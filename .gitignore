@@ -1,0 +1,5 @@
+.stack-work/
+scshuffle.cabal
+credentials
+*.json
+*~
